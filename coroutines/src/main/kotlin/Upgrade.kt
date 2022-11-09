@@ -1,0 +1,1 @@
+data class Upgrade(val status: String, val id: Long)

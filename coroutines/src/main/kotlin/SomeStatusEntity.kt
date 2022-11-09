@@ -1,0 +1,1 @@
+data class SomeStatusEntity(var status: String)
